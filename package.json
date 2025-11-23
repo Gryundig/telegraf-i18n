@@ -1,6 +1,6 @@
 {
   "name": "telegraf-i18n",
-  "version": "6.6.1",
+  "version": "6.6.2",
   "description": "Telegraf i18n engine",
   "main": "lib/i18n.js",
   "types": "lib/index.d.ts",
@@ -34,7 +34,7 @@
   "dependencies": {
     "compile-template": "^0.3.1",
     "debug": "^4.0.1",
-    "js-yaml": "^3.6.1"
+    "js-yaml": "4.1.1"
   },
   "peerDependencies": {
     "telegraf": "^4.16.3"
